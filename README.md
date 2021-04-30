@@ -1,5 +1,5 @@
 # Car-Dealer-
-This is among my biggest projects. Every car dealers can use it for sales history, vehicle's cost, staff information etc.
+This is among in my biggest projects. Every car dealers can use it for sales history, vehicle's cost, staff information etc.
 For admin login: admin admin to user/password
 
 ![image](https://user-images.githubusercontent.com/53935759/116747693-f7de5180-aa06-11eb-8156-0f652fa9c990.png)
