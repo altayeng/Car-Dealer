@@ -1,4 +1,4 @@
-# Car-Dealer-
+# Car-Dealer
 This is among in my biggest projects. Every car dealers can use it for sales history, vehicle's cost, staff information etc.
 For admin login: admin admin to user/password
 
